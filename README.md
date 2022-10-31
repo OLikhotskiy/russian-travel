@@ -8,3 +8,6 @@
 1. Flex;
 2. Grid;
 3. БЭМ.
+
+## Ссылка на GitHub Pages:
+https://olikhotskiy.github.io/russian-travel/

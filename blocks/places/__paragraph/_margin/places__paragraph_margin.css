@@ -1,0 +1,10 @@
+.places__paragraph_margin {
+    margin-bottom: 26px;
+}
+
+@media screen and (max-width: 896px) {
+        
+    .places__paragraph_margin {
+        margin-bottom: 25px;
+    }
+}

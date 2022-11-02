@@ -9,10 +9,6 @@
     margin: 0;
 }
 
-.places__paragraph:last-child {
-    margin: 26px 0 0;
-}
-
 @media screen and (max-width: 1152px) {
     .places__paragraph {
         max-width: 456px;
@@ -25,18 +21,11 @@
         font-size: 16px;
         line-height: 26px;
     }
-    
-    .places__paragraph:last-child {
-        margin: 25px 0 0;
-    }
 }
 
 @media screen and (max-width: 692px) {
     .places__paragraph {
-        
-        margin: 0 16px 0;
-    }
-    .places__paragraph:last-child {
-        margin: 25px 16px 0;
+        margin-left: 16px;
+        margin-right: 16px;
     }
 }

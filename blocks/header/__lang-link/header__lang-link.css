@@ -9,10 +9,14 @@
     color: #FFFFFF;
     margin: 18px 0 0;
     text-decoration: none;
+    transition: 0.5s;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 .header__lang-link:first-child {
-    text-decoration-line: underline;
     margin-right: 18px;
 }
 
@@ -22,6 +26,6 @@
         min-height: 20px;
         font-size: 18px;
         line-height: 20px;
-        margin: 14px 0 0;
+        margin-top: 14px;
     }
 }

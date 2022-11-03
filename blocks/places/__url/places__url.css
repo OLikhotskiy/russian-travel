@@ -1,6 +1,5 @@
 .places__url {
     max-width: 456px;
-    min-height: 12px;
     font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -10,8 +9,6 @@
     color: #AAAAAA;
     margin: 0 0 12px;
 }
-
-
 
 @media screen and (max-width: 896px) {
     .places__url {

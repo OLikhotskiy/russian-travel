@@ -1,6 +1,7 @@
 .cover__item {
     display: flex;
     flex-direction: column;
+    align-self: center;
     align-items: center;
     justify-content: center;
     min-height: 740px;
@@ -30,6 +31,8 @@
     left: 0;
     z-index: -1;
     transition: 0.5s;
+    height: 100%;
+    width: 100%;
 }
 
 .cover__item:hover::before {
